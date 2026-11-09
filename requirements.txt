@@ -1,6 +1,6 @@
 streamlit
 numpy
-plotly
-shapely
-opencv-python-headless
+scipy
 pillow
+opencv-python-headless
+trimesh
