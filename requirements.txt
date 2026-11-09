@@ -1,0 +1,6 @@
+streamlit
+numpy
+plotly
+shapely
+opencv-python-headless
+pillow
